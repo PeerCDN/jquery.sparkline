@@ -1,2 +1,4 @@
 *
 !.gitignore
+!jquery.sparkline.js
+!jquery.sparkline.min.js
